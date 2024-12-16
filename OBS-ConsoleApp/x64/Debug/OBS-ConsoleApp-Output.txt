@@ -1,0 +1,217 @@
+info: CPU Name: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz
+info: CPU Speed: 3600MHz
+info: Physical Cores: 10, Logical Cores: 10
+info: Physical Memory: 32656MB Total, 21602MB Free
+info: Windows Version: 10.0 Build 22631 (release: 23H2; revision: 4602; 64-bit)
+info: Running as administrator: false
+info: Windows 10/11 Gaming Features:
+info: 	Game DVR: On
+info: 	Game Mode: Probably On (no reg key set)
+info: Sec. Software Status:
+info: 	Microsoft Defender Antivirus: enabled (AV)
+info: 	Windows Firewall: enabled (FW)
+info: ---------------------------------
+info: audio settings reset:
+	samples per sec: 48000
+	speakers:        2
+	max buffering:   960 milliseconds
+	buffering type:  dynamically increasing
+info: ---------------------------------
+info: Initializing D3D11...
+info: Available Video Adapters: 
+info: 	Adapter 0: NVIDIA GeForce RTX 3080
+info: 	  Dedicated VRAM: 10541334528 (9.8 GiB)
+info: 	  Shared VRAM:    17121423360 (15.9 GiB)
+info: 	  PCI ID:         10de:2206
+info: 	  HAGS Status:    Disabled (Default: No, Driver status: Supported)
+info: 	  Driver Version: 32.0.15.6614
+info: 	  output 0:
+	    name=LG HDR WQHD
+	    pos={0, 0}
+	    size={3840, 1600}
+	    attached=true
+	    refresh=60
+	    bits_per_color=8
+	    space=RGB_FULL_G22_NONE_P709
+	    primaries=[r=(0.662109, 0.330078), g=(0.300781, 0.610352), b=(0.150391, 0.059570), wp=(0.313477, 0.329102)]
+	    relative_gamut_area=[709=1.076141, P3=0.793300, 2020=0.569140]
+	    sdr_white_nits=80
+	    nit_range=[min=0.010000, max=1499.000000, max_full_frame=799.000000]
+	    dpi=96 (100%)
+	    id=\\?\DISPLAY#GSM7717#5&26ee14dd&0&UID4357#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+	    alt_id=\\.\DISPLAY1
+info: Loading up D3D11 on adapter NVIDIA GeForce RTX 3080 (0)
+info: D3D11 loaded successfully, feature level used: b000
+info: DXGI increase maximum frame latency success
+info: ---------------------------------
+info: video settings reset:
+	base resolution:   1920x1080
+	output resolution: 1280x720
+	downscale filter:  Bicubic
+	fps:               30/1
+	format:            NV12
+	YUV mode:          Rec. 709/Partial
+info: NV12 texture support enabled
+info: P010 texture support not available
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/aja-output-ui.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/aja-output-ui.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/aja-output-ui.dll', file not found
+debug: ---------------------------------
+debug: Loading module: aja.dll
+warning: Failed to load 'en-US' text for module: 'aja.dll'
+warning: No AJA devices found, skipping loading AJA plugin
+warning: Failed to initialize module 'aja.dll'
+warning: Skipping module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+debug: ---------------------------------
+debug: Loading module: coreaudio-encoder.dll
+warning: Failed to load 'en-US' text for module: 'coreaudio-encoder.dll'
+info: [CoreAudio encoder]: Adding CoreAudio AAC encoder
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-captions.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-captions.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-captions.dll', file not found
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-output-ui.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-output-ui.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/decklink-output-ui.dll', file not found
+debug: ---------------------------------
+debug: Loading module: decklink.dll
+warning: Failed to load 'en-US' text for module: 'decklink.dll'
+warning: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+warning: Failed to initialize module 'decklink.dll'
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/frontend-tools.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/frontend-tools.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/frontend-tools.dll', file not found
+debug: ---------------------------------
+debug: Loading module: image-source.dll
+warning: Failed to load 'en-US' text for module: 'image-source.dll'
+warning: Skipping module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/libcef.dll', not an OBS plugin
+warning: Skipping module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/libEGL.dll', not an OBS plugin
+warning: Skipping module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+debug: ---------------------------------
+debug: Loading module: nv-filters.dll
+warning: Failed to load 'en-US' text for module: 'nv-filters.dll'
+info: [NVIDIA Audio Effects:] NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+info: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-browser.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-browser.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-browser.dll', file not found
+debug: ---------------------------------
+debug: Loading module: obs-ffmpeg.dll
+warning: Failed to load 'en-US' text for module: 'obs-ffmpeg.dll'
+debug: amf_load: No AMF library
+debug: ---------------------------------
+debug: Loading module: obs-filters.dll
+warning: Failed to load 'en-US' text for module: 'obs-filters.dll'
+debug: ---------------------------------
+debug: Loading module: obs-nvenc.dll
+warning: Failed to load 'en-US' text for module: 'obs-nvenc.dll'
+warning: [NVENC] Failed to launch the NVENC test process I guess
+info: NVENC not supported
+warning: Failed to initialize module 'obs-nvenc.dll'
+debug: ---------------------------------
+debug: Loading module: obs-outputs.dll
+warning: Failed to load 'en-US' text for module: 'obs-outputs.dll'
+debug: ---------------------------------
+debug: Loading module: obs-qsv11.dll
+warning: Failed to load 'en-US' text for module: 'obs-qsv11.dll'
+info: Failed to launch the QSV test process I guess
+debug: ---------------------------------
+debug: Loading module: obs-text.dll
+warning: Failed to load 'en-US' text for module: 'obs-text.dll'
+debug: ---------------------------------
+debug: Loading module: obs-transitions.dll
+warning: Failed to load 'en-US' text for module: 'obs-transitions.dll'
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-vst.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-vst.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-vst.dll', file not found
+debug: ---------------------------------
+debug: Loading module: obs-webrtc.dll
+warning: Failed to load 'en-US' text for module: 'obs-webrtc.dll'
+debug: ---------------------------------
+info: LoadLibrary failed for 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-websocket.dll': The specified module could not be found.
+ (126)
+warning: Module 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-websocket.dll' not loaded
+debug: Failed to load module file 'C:/WORK/OBS/build_x64/rundir/Release/obs-plugins/64bit/obs-websocket.dll', file not found
+debug: ---------------------------------
+debug: Loading module: obs-x264.dll
+warning: Failed to load 'en-US' text for module: 'obs-x264.dll'
+debug: ---------------------------------
+debug: Loading module: rtmp-services.dll
+warning: Failed to load 'en-US' text for module: 'rtmp-services.dll'
+debug: ---------------------------------
+debug: Loading module: text-freetype2.dll
+warning: Failed to load 'en-US' text for module: 'text-freetype2.dll'
+debug: ---------------------------------
+debug: Loading module: vlc-video.dll
+warning: Failed to load 'en-US' text for module: 'vlc-video.dll'
+info: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+debug: ---------------------------------
+debug: Loading module: win-capture.dll
+warning: Failed to load 'en-US' text for module: 'win-capture.dll'
+debug: ---------------------------------
+info: load_graphics_offsets: Failed to start 'get-graphics-offsets64.exe'
+debug: Loading module: win-dshow.dll
+warning: Failed to load 'en-US' text for module: 'win-dshow.dll'
+debug: ---------------------------------
+debug: Loading module: win-wasapi.dll
+warning: Failed to load 'en-US' text for module: 'win-wasapi.dll'
+info:   Loaded Modules:
+info:     win-wasapi.dll
+info:     win-dshow.dll
+info:     win-capture.dll
+info:     vlc-video.dll
+info:     text-freetype2.dll
+info:     rtmp-services.dll
+info:     obs-x264.dll
+info:     obs-webrtc.dll
+info:     obs-transitions.dll
+info:     obs-text.dll
+info:     obs-qsv11.dll
+info:     obs-outputs.dll
+info:     obs-filters.dll
+info:     obs-ffmpeg.dll
+info:     nv-filters.dll
+info:     image-source.dll
+info:     coreaudio-encoder.dll
+debug: encoder 'test_video_stream' (obs_x264) created
+debug: [CoreAudio encoder]: Default bitrate matching log for bitrate 128:
+Trying kAudioFormatMPEG4AAC_HE_V2 (0x61616370)
+AudioConverterNew(&in, &out, &converter): kAudioConverterErr_FormatNotSupported (1718449215)
+Could not get converter
+Trying kAudioFormatMPEG4AAC_HE (0x61616368)
+Found new best match 32000
+Found new best match 40000
+Found new best match 48000
+Found new best match 56000
+Found new best match 64000
+Found new best match 80000
+Trying kAudioFormatMPEG4AAC (0x61616320)
+Found new best match 96000
+Found new best match 112000
+Found new best match 128000
+debug: encoder 'test_audio_stream' (CoreAudio_AAC) created
+debug: service 'Twitch' (rtmp_common) created
+PROTOCOL: RTMP
+URL: rtmp://ingest.global-contribute.live-video.net/app/
+KEY: live_1216564972_7rnZftYw3N4Ohh1q0YXsA5KFzHDK1f
+debug: output 'test_stream' (rtmp_outupt) created
+warning: Output 'test_stream': Tried to use obs_output_set_video_encoder2 on a raw output
+warning: Output 'test_stream': Tried to use obs_output_set_audio_encoder on a raw output
+warning: Output 'test_stream': Tried to use obs_output_set_service on a non-service output
+ERROR: obs_output_start failed...
+debug: output 'test_stream' destroyed
+debug: service 'Twitch' destroyed
+debug: encoder 'test_audio_stream' destroyed
+debug: encoder 'test_video_stream' destroyed
+info: Freeing OBS context data
